@@ -1,1 +1,11 @@
+# Ignore build outputs
+build/
+out/
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore logs
+*.log
 
